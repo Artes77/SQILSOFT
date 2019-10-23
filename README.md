@@ -1,9 +1,9 @@
 # SQILSOFT
 
-FrontEnd
-Angular 8
-Material
+FrontEnd -
+Angular 8,
+Material,
 Ngxs
 
-BackEnd
+BackEnd -
 Asp.net.core 2.1
